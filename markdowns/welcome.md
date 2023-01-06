@@ -53,7 +53,6 @@ void main() {
     const int myNumber = 2;
     const double myFloat = 2.5;
     final entradaDoUsuario = stdin.readLineSync();
-    myFloat = 2.6;
     var myVar = 1;
 
     print(entradaDoUsuario);
